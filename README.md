@@ -25,7 +25,7 @@ langom-orange, is a [Jekyll][j] blog theme with just the right amount of style. 
 
 ### For Windows
 
-Installation on Windows is quite a bit thougher, so I have writen a [post][post] just on installation instructions.
+Installation on Windows is quite a bit tougher, so I have writen a [post][post] just on installation instructions.
 
 ### And serve!
 
