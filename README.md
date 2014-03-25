@@ -1,6 +1,6 @@
 # langom-orange
 
-> #### *Lagom* is a Swedish word with no direct English equivalent, meaning "just the right amount". Orange is an english word which discribes the colour between yellow and red. This colour was named after the fruit and not the other way round.
+> #### *Lagom* is a Swedish word with no direct English equivalent, meaning "just the right amount". Orange is an English word which describes the colour between red and yellow. This colour was named after the fruit and not the other way round.
 
 langom-orange, is a [Jekyll][j] blog theme with just the right amount of style. This theme is based on [langom][lg] by [Matt Swanson][ms] and is lovingly extracted from both [mdswanson.com][mds] and [james12802.co.uk][jam] for your enjoyment!
 
@@ -25,7 +25,7 @@ langom-orange, is a [Jekyll][j] blog theme with just the right amount of style. 
 
 ### For Windows
 
-Installation on Windows is quite a bit tougher, so I have writen a [post][post] just on installation instructions.
+Installation on Windows is quite a bit tougher, so I have writen a whole [post][post], just on installation instructions.
 
 ### And serve!
 
@@ -35,9 +35,9 @@ Either way, you should now have a server up and running locally at <http://local
 
 Next you'll want to change a few things. Most of them can be changed directly in
 [_config.yml][config]. That's where you can add your social links, change the accent
-color, stuff like that.
+color and other cool stuff like that.
 
-There's a few other places that you'll want to change, too:
+There's a few other things you'll want to change, too:
 
 - [CNAME][cname]: If you're using this on GitHub Pages with a custom domain name, 
   you'll want to change this to be the domain you're going to use. All that should 
