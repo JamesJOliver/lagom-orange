@@ -9,7 +9,7 @@ langom-orange, is a [Jekyll][j] blog theme with just the right amount of style. 
 * Open Sans from [Google web fonts][gfonts]
 * Built-in Atom RSS feed
 
-## Theme in action!
+## See it in action!
 ![](http://i.imgur.com/Pmzk4j1.png)
 ![](http://i.imgur.com/CT2Xvug.png)
 ![](http://i.imgur.com/XisjqW1.jpg)
@@ -58,11 +58,8 @@ should be able to see your new site at <http://username.github.io>.
 
 [MIT](https://github.com/james12802/lagom-orange/blob/master/LICENSE) with no
 added caveats, so feel free to use this on your site without linking back to
-me or using a disclaimer or anything silly like that.
+me or Matt Swanson and without using a disclaimer or anything silly like that. (But if you like the theme, it never hurts to say where you got it! ;p)
 
-## Contact
-I'd love to hear from you at [@_swanson][twitter]. Feel free to open issues if you
-run into trouble or have suggestions. Pull Requests always welcome.
 
 [j]: http://jekyllrb.com/
 [mds]: http://mdswanson.com
