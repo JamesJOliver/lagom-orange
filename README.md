@@ -15,13 +15,13 @@ langom-orange, is a [Jekyll][j] blog theme with just the right amount of style. 
 ![](http://i.imgur.com/XisjqW1.jpg)
 
 ## Installation
-# For Linux/Mac
+### For Linux/Mac
 - Install Jekyll: `gem install jekyll`
 - [Fork this repository][fork]
 - Clone it: `git clone https://github.com/YOUR-USER/lagom-orange`
 - Run the jekyll server: `jekyll serve`
 
-# For Windows see this [post][post]
+### For Windows see this [post][post]
 
 You should have a server up and running locally at <http://localhost:4000>.
 
