@@ -2,26 +2,26 @@
 
 > #### *Lagom* is a Swedish word with no direct English equivalent, meaning "just the right amount". Orange is an english word which discribes the colour between yellow and red. This colour was named after the fruit and not the other way round.
 
-langom-orange, a [Jekyll][j] blog theme with just the right amount of style. 
-
-Extracted lovingly from both [http://mdswanson.com][mds] and [james12802.co.uk][jam] for your enjoyment!
+langom-orange, is a [Jekyll][j] blog theme with just the right amount of style. This theme is based on [langom][lg] by [Matt Swanson][ms] and is lovingly extracted from both [mdswanson.com][mds] and [james12802.co.uk][jam] for your enjoyment!
 
 * Responsive, based on [Skeleton][skeleton]
 * [Font Awesome][font-awesome] for icons
 * Open Sans from [Google web fonts][gfonts]
 * Built-in Atom RSS feed
 
-## Action Shots
+## Theme in action!
 ![](http://i.imgur.com/Pmzk4j1.png)
 ![](http://i.imgur.com/CT2Xvug.png)
 ![](http://i.imgur.com/XisjqW1.jpg)
 
 ## Installation
-
+# For Linux/Mac
 - Install Jekyll: `gem install jekyll`
 - [Fork this repository][fork]
 - Clone it: `git clone https://github.com/YOUR-USER/lagom-orange`
 - Run the jekyll server: `jekyll serve`
+
+# For Windows see this [post][post]
 
 You should have a server up and running locally at <http://localhost:4000>.
 
@@ -70,3 +70,6 @@ run into trouble or have suggestions. Pull Requests always welcome.
 [logo]: https://github.com/james12802/lagom-orange/blob/master/logo.png
 [pages]: http://pages.github.com
 [jam]: http://james12802.co.uk
+[post]: http://james12802.co.uk/blog/2014/03/20/how-to-blog-with-jekyll-on-windows-part1.html
+[lg]: https://github.com/swanson/lagom
+[ms]: https://github.com/swanson
