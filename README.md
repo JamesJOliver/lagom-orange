@@ -23,7 +23,9 @@ langom-orange, is a [Jekyll][j] blog theme with just the right amount of style. 
 
 ### For Windows see this [post][post]
 
-You should have a server up and running locally at <http://localhost:4000>.
+### And serve!
+
+Either way, you should now have a server up and running locally at <http://localhost:4000>.
 
 ## Customization
 
