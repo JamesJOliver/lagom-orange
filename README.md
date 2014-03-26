@@ -12,7 +12,9 @@ langom-orange, is a [Jekyll][j] blog theme with just the right amount of style. 
 ## See it in action!
 <p align="center">
 <img src="http://i.imgur.com/2xtzgnQ.png">
+<br>
 <img src="http://i.imgur.com/rj1Dn6X.png">
+<br>
 <img src="http://i.imgur.com/FVzdMJJ.png">
 </p>
 ## Installation
