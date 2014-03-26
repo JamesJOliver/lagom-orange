@@ -11,9 +11,9 @@ langom-orange, is a [Jekyll][j] blog theme with just the right amount of style. 
 
 ## See it in action!
 <p align="center">
-![](http://i.imgur.com/Pmzk4j1.png)
-![](http://i.imgur.com/CT2Xvug.png)
-![](http://i.imgur.com/FVzdMJJ.png)
+<img src="http://i.imgur.com/Pmzk4j1.png">
+<img src="http://i.imgur.com/CT2Xvug.png">
+<img src="http://i.imgur.com/FVzdMJJ.png">
 </p>
 ## Installation
 
