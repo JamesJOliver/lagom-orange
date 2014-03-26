@@ -1,4 +1,4 @@
-Follow me:
+Lets get social!
 <div id="stalker">
   {% if site.theme.social.github %}
   <a title="{{ site.theme.social.github }} on Github" href="https://github.com/{{ site.theme.social.github }}">
@@ -60,6 +60,12 @@ Follow me:
   {% if site.theme.social.gplus %}
   <a title="{{ site.theme.name }} on Google Plus" href="https://plus.google.com/{{ site.theme.social.gplus }}">
     <i class="fa fa-google-plus-square"></i>
+  </a>
+  {% endif %}
+
+  {% if site.theme.social.email %}
+  <a title="{{ site.theme.social.email }}" href="mailto:{{ site.theme.social.email }}">
+    <i class="fa fa-pencil-square"></i>
   </a>
   {% endif %}
 
