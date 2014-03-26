@@ -10,10 +10,11 @@ langom-orange, is a [Jekyll][j] blog theme with just the right amount of style. 
 * Built-in Atom RSS feed
 
 ## See it in action!
+<p align="center">
 ![](http://i.imgur.com/Pmzk4j1.png)
 ![](http://i.imgur.com/CT2Xvug.png)
 ![](http://i.imgur.com/FVzdMJJ.png)
-
+</p>
 ## Installation
 
 ### For Linux/Mac
