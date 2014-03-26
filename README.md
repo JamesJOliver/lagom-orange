@@ -11,10 +11,10 @@ lagom-orange, is a [Jekyll][j] blog theme with just the right amount of style. T
 
 ## See it in action!
 <p align="center">
-<img style="-webkit-user-select: none; cursor: -webkit-zoom-in;" src="http://i.imgur.com/LQf9H4v.png" width="568" height="425">
+<img style="-webkit-user-select: none; cursor: -webkit-zoom-in;" src="http://i.imgur.com/LQf9H4v.png" width="1234" height="923">
 </p>
 <p align="center">
-<img style="-webkit-user-select: none; cursor: -webkit-zoom-in;" src="http://i.imgur.com/WwwgZat.png" width="568" height="425">
+<img style="-webkit-user-select: none; cursor: -webkit-zoom-in;" src="http://i.imgur.com/WwwgZat.png" width="1234" height="923">
 </p>
 <p align="center">
 <img style="-webkit-user-select: none; cursor: -webkit-zoom-in;" src="http://i.imgur.com/FVzdMJJ.png" width="568" height="425">
