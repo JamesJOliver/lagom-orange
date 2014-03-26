@@ -9,9 +9,12 @@
   <title>{{ site.theme.name }} - {{ page.title }}</title>
   <meta name="author" content="{{ site.theme.name }}" />
   <meta name="description" content="The blog of {{ site.theme.name }}" />
+  {% if page.url == "/404.html" %}
+    <meta http-equiv="refresh" content="5; url=/">
+  {% endif %}
   <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' }}" />
 
-  <link href="//fonts.googleapis.com/css?family=Open+Sans:600,800" rel="stylesheet" type="text/css">
+  <link href="//fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800" rel="stylesheet" type="text/css">
   <link rel="shortcut icon" href="/favicon.png">
   <link rel="alternate" type="application/rss+xml" title="{{ site.theme.name }}" href="{{site.url}}/atom.xml" />
 
