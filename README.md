@@ -1,6 +1,6 @@
 # lagom-orange
 
-> #### *Lagom* is a Swedish word with no direct English equivalent, meaning "just the right amount". Orange is an English word which describes the colour between red and yellow. This colour was named after the fruit and not the other way round.
+> #### *Lagom* is a Swedish word with no direct English equivalent, meaning "just the right amount". *Orange* is an English word which describes the colour between red and yellow. This colour was named after the fruit and not the other way round.
 
 lagom-orange, is a [Jekyll][j] blog theme with just the right amount of style. This theme is based on [lagom][lg] by [Matt Swanson][ms] and is lovingly extracted from both [mdswanson.com][mds] and [james12802.co.uk][jam] for your enjoyment!
 
