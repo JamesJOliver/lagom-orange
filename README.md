@@ -39,7 +39,7 @@ Installation on Windows is quite a bit tougher, so I have writen a whole [post][
 
 Either way, you should now have a server up and running locally at <http://localhost:4000>.
 
-## Customization
+## Customisation
 
 Next you'll want to change a few things. Most of them can be changed directly in
 [_config.yml][config]. That's where you can add your social links, change the accent
